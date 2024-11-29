@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jotadablio
 - 👀 I’m interested in full stack development and ui/ux designing
-- 🌱 I’m currently learning Front-end Triad
+- 🌱 I’m currently learning mobile development (React Native/Flutter)
 - 📫 How to reach me --> jwilly1409@gmail.com
 
 <!---

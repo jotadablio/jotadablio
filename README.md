@@ -37,13 +37,6 @@
 
 **AI:** prompt engineering · LLM APIs · AI-assisted development & automation
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jotadablio&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadablio&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
 ### 📫 Let's connect
 
 Open to collaborations on architecture, JavaScript, and AI projects — reach me at **jwilly1409@gmail.com**.
